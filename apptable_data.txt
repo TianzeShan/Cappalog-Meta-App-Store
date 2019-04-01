@@ -1,0 +1,4 @@
+insert into apptable(appID, Name, Developer, Link, Description, Platform, Price) values
+('2','CNN', 'Turner Broadcasting System', 'www.cnn.com', 'News in US and the world', 'Cable News Network','20.00'),
+('3','Fox News', '21st Century Fox', 'www.foxnews.com', 'Conservative U.S. News', 'Fox News Network LLC', '53.00'),
+('4','ESPN', 'Disney Entertainment', 'www.espn.com', 'World Wide Leader in Sports', 'Entertainment Sports', '5.00');
